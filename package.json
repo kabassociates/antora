@@ -18,7 +18,7 @@
     "eslint-plugin-promise": "~4.2",
     "eslint-plugin-standard": "~4.0",
     "gulp": "~4.0",
-    "isomorphic-git": "0.78.5",
+    "isomorphic-git": "1.8.2",
     "js-yaml": "~3.14",
     "mocha": "~7.2",
     "node-git-server": "~0.6",
